@@ -4,7 +4,7 @@
 	"author": "Mohamed Mousa",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "related", "words" ],
-
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
